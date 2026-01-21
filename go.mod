@@ -4,8 +4,8 @@ go 1.23.0
 
 require (
 	github.com/mattn/go-sqlite3 v1.14.17
-	github.com/zhiyunliu/glue v0.8.0-beta1
-	github.com/zhiyunliu/golibs v0.3.9 // indirect
+	github.com/zhiyunliu/glue v0.8.9
+	github.com/zhiyunliu/golibs v0.3.18 // indirect
 	github.com/zhiyunliu/stack v1.10.1 // indirect
 	github.com/zhiyunliu/xbinding v0.1.4 // indirect
 	gorm.io/driver/mysql v1.3.6
